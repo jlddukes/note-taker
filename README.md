@@ -1,1 +1,1 @@
-# note-taker
+1) npm install -y, npm i express, npm install
